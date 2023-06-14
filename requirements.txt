@@ -1,3 +1,5 @@
 streamlit
 pickle
 mumpy
+pandas
+scikit-learn
